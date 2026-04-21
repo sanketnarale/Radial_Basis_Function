@@ -25,6 +25,7 @@
 7. [Evaluation Plots](#7-evaluation-plots)
 8. [How to Run](#8-how-to-run)
 9. [Dependencies](#9-dependencies)
+10. [License](#10-license)
 
 ---
 
@@ -392,3 +393,11 @@ All cells should be run top-to-bottom in order. The hyperparameter search (grid 
 | `scikit-learn` | `KMeans`, `Ridge`, `StandardScaler`, `train_test_split`, metrics |
 
 No deep learning frameworks (PyTorch, TensorFlow) are used — the RBF network is implemented entirely in NumPy + scikit-learn primitives.
+
+---
+
+## 10. License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](/d:/sanket/CNN/RBF/LICENSE) file for the full license text.
